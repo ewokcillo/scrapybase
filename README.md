@@ -1,0 +1,4 @@
+scrapybase
+==========
+
+Sekeleton scrapy project
